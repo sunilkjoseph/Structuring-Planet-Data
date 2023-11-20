@@ -1,6 +1,12 @@
 # Solar System Planets Table
 
-This project involves creating an HTML data table to display facts and figures about the planets in our solar system. The data is sourced from the "planets-data.txt" file, and the table is designed to be informative and easy to follow for students studying the planets.
+## Objective
+
+The primary objective of this project is to test comprehension of HTML tables and associated features, in alignment with the learning material provided in the [HTML Tables module](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) on MDN Web Docs. By completing this project, learners can reinforce their understanding of structuring HTML tables, using semantic elements, associating headers with rows/columns, and implementing basic styling.
+
+## Project Overview
+
+This project involves creating an HTML data table to display facts and figures about the planets in our solar system. The data is sourced from the `planets-data.txt` file, and the table is designed to be informative and easy to follow for students studying the planets.
 
 ## Table Structure
 
@@ -35,7 +41,7 @@ The HTML table is organized with the following structure:
 
 ## CSS Styling
 
-The minimal-table.css file provides simple styling for the table, including borders, padding, and alternating row colors for better readability.
+The `minimal-table.css` file provides simple styling for the table, including borders, padding, and alternating row colors for better readability.
 
 ## Data Source
 
@@ -43,9 +49,9 @@ The data used in this project is sourced from [NASA's Planetary Fact Sheet - Met
 
 ## Additional Information
 
-- The README.md file provides an overview of the project.
-- The "planets-data.txt" file contains the raw data used to populate the table.
-- Feel free to customize the table or styling based on specific preferences or requirements.
+- The `README.md` file provides an overview of the project.
+- The `planets-data.txt` file contains the raw data used to populate the table.
+- This project is completed as part of the assessment in the learning material provided in the [HTML Tables module](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) on MDN Web Docs.
 
 ## Author
 
